@@ -1,14 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>http://example.org/en/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>http://example.org/de/sitemap.xml</loc>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  
+  <url>
+    <loc>http://julieandchad.uk/#RSVP</loc>
+    <lastmod>2018-05-14T14:42:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://julieandchad.uk/#travel</loc>
+    <lastmod>2018-05-14T14:31:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://julieandchad.uk/#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://julieandchad.uk/#</loc>
+    <lastmod>2018-05-14T14:42:18+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://julieandchad.uk/#</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
