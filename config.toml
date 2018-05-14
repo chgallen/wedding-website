@@ -8,6 +8,6 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = 'The event of the season'
-  logo = "fa-diamond"
-  copyright = "Untitled"
+  description = '1 June 2019, Pollokshields Burgh Hall, Glasgow'
+  logo = "fa-heart"
+  copyright = "Julie Ashcroft and Chad Allen"
