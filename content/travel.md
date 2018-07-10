@@ -18,5 +18,3 @@ The major train stations in Glasgow are Glasgow Central and Glasgow Queen Street
 The nearest airport is [Glasgow International Airport](https://www.glasgowairport.com), which is served by EasyJet and Ryanair etc. There's a shuttle bus from the airport to the centre of Glasgow.
 
 Alternative airpots are [Glasgow Prestwick](https://www.glasgowprestwick.com) and [Edinburgh](https://www.edinburghairport.com).
-
-[![Scotland's for me!](images/visit-scotland.gif)](https://www.visitscotland.com)
