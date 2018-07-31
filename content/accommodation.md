@@ -10,5 +10,5 @@ The wedding venue doesn't have any accommodation. However, there are many hotels
 Useful resources include:
 
 * [Airbnb](https://www.airbnb.co.uk)
-* [Booking.com](www.booking.com)
+* [Booking.com](http://www.booking.com)
 * [Hotels.com](https://uk.hotels.com)
