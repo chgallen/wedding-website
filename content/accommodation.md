@@ -1,6 +1,6 @@
 ---
 title: "Hotels"
-weight: 3
+weight: 4
 date: 2018-07-10T22:41:44+01:00
 draft: false
 ---
