@@ -1,6 +1,6 @@
 ---
 title: "About"
-weight: 2
+weight: 1
 date: 2018-06-10T19:36:03+01:00
 draft: false
 ---
