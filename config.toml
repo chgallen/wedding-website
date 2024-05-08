@@ -1,5 +1,5 @@
 publishDir = "docs"
-baseurl = "http://julieandchad.uk"
+baseurl = "http://julieandchad.chga.uk"
 title = "Julie and Chad"
 theme = "dimension"
 languageCode = "en-uk"
